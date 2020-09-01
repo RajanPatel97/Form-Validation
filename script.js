@@ -59,7 +59,7 @@ function processFormData(e) {
     // Validate Form
     validateForm();
     // Submit Form if Valid
-    if (isValid && passwordsMatch) {
+    if (isFormValid && passwordsMatch) {
         storeFormData();
     }
 }
