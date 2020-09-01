@@ -1,5 +1,5 @@
 # Form-Validation
-Front-End Form Validation for Sign-Up Registration 
+Client-Side Form Validation for Sign-Up Registration 
 
 ### https://rajanpatel97.github.io/Form-Validation/
 
